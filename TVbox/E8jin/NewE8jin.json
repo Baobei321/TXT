@@ -1,7 +1,7 @@
 /////From HTB/PG/JSM
 {
     "spider": "https://github.com/franksun1211/TXT/raw/main/HTB/PG/pg.jar",
-    "notice": "[New-E8jin]20260424 🐒",
+    "notice": "[New-E8jin]20260424-A 🐒",
     "sites": [
         {
             "key": "✨豆瓣✨",
@@ -37,7 +37,30 @@
       "timeout": 60,
       "ext": "proxy"
     },
-        
+        {
+            "key": "javdb",
+            "name": "javdb",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/18py/py/javdb.py"
+        },
+         {
+            "key": "神秘影院",
+            "name": "神秘影院",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.com/franksun1211/TXT/raw/main/TVbox/E8jin/18py/py/神秘影院.py"
+        },
         {
             "key": "✨85PO✨",
             "name": "✨85PO✨",
